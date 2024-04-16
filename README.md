@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/Ahwoks_dawU?feature=shared" target="_blank">
@@ -2545,3 +2546,6 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+=======
+# Canva
+>>>>>>> origin/main
